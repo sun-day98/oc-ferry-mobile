@@ -6,7 +6,8 @@
 > **已推送到 GitHub**：主仓库
 > [sun-day98/oc-ferry-mobile](https://github.com/sun-day98/oc-ferry-mobile)（手机 Termux 直接
 > clone 这个仓库即可），并已从 fork 的功能分支 `feat/oc-ferry-mobile` 向
-> [niki914/zafiro](https://github.com/niki914/zafiro) 提交合入 PR。
+> [niki914/zafiro](https://github.com/niki914/zafiro) 提交了合入
+> [PR #402](https://github.com/niki914/zafiro/pull/402)。
 
 | 用法 | 需要什么 | 入口 |
 | --- | --- | --- |
