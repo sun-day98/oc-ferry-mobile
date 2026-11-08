@@ -1,0 +1,422 @@
+id,upstream_model,provider,name,status,status_label,verdict,tools,checked_at,fingerprint
+opencode/agnes/agnes-2.5-flash,agnes/agnes-2.5-flash,agnes,Agnes 2.5 Flash,unknown,未体检,,no,,63f843d4bf8f678a
+opencode/agnes/agnes-3.0-flash,agnes/agnes-3.0-flash,agnes,Agnes 3.0 Flash,unknown,未体检,,no,,63f843d4bf8f678a
+opencode/aihubmix/coding-glm-5.1-free,aihubmix/coding-glm-5.1-free,aihubmix,Coding GLM 5.1 (free),unknown,未体检,,no,,8c95a4e6ddae8422
+opencode/aihubmix/coding-glm-5.2-free,aihubmix/coding-glm-5.2-free,aihubmix,"GLM-5.2 (Coding, free)",unknown,未体检,,no,,50d1ac7faa980f44
+opencode/aihubmix/coding-glm-5.3-flash-free,aihubmix/coding-glm-5.3-flash-free,aihubmix,"GLM-5.3-Flash (Coding, free)",unknown,未体检,,no,,b7e8ea045ecdf7f1
+opencode/aihubmix/coding-glm-5.3-free,aihubmix/coding-glm-5.3-free,aihubmix,"GLM-5.3 (Coding, free)",unknown,未体检,,no,,50d1ac7faa980f44
+opencode/aihubmix/coding-minimax-m2.7-free,aihubmix/coding-minimax-m2.7-free,aihubmix,Coding MiniMax M2.7 (Free),unknown,未体检,,no,,b004aadad063833b
+opencode/aihubmix/glm-4.7-flash-free,aihubmix/glm-4.7-flash-free,aihubmix,GLM-4.7-Flash (free),unknown,未体检,,no,,6edcb8966f4541d2
+opencode/aihubmix/ling-3.0-flash-free,aihubmix/ling-3.0-flash-free,aihubmix,Ling 3.0 Flash (free),unknown,未体检,,no,,1ceedf35ff86dea3
+opencode/aihubmix/nemotron-3-nano-omni-30b-a3b-reasoning-free,aihubmix/nemotron-3-nano-omni-30b-a3b-reasoning-free,aihubmix,Nemotron 3 Nano Omni 30B A3B Reasoning (free),unknown,未体检,,no,,b8f39f516d036dd3
+opencode/aihubmix/nemotron-3-super-120b-a12b-free,aihubmix/nemotron-3-super-120b-a12b-free,aihubmix,Nemotron 3 Super 120B A12B (free),unknown,未体检,,no,,3968d6fb66bf34e9
+opencode/aihubmix/nemotron-3-ultra-550b-a55b-free,aihubmix/nemotron-3-ultra-550b-a55b-free,aihubmix,Nemotron 3 Ultra 550B A55B (free),unknown,未体检,,no,,8167141f71d7f524
+opencode/aihubmix/nemotron-3.5-content-safety-free,aihubmix/nemotron-3.5-content-safety-free,aihubmix,Nemotron 3.5 Content Safety (free),unknown,未体检,,no,,58c33d315c823a0b
+opencode/aihubmix/nemotron-3.5-lightning-free,aihubmix/nemotron-3.5-lightning-free,aihubmix,Nemotron 3.5 Lightning 30B A3B (free),unknown,未体检,,no,,feeec3e93efd0465
+opencode/aihubmix/qwen3.8-flash-free,aihubmix/qwen3.8-flash-free,aihubmix,Qwen3.8 Flash (free),unknown,未体检,,no,,ef9fa5cfb7d78018
+opencode/aihubmix/qwen3.8-max-free,aihubmix/qwen3.8-max-free,aihubmix,Qwen3.8 Max (free),unknown,未体检,,no,,40160a836b9bceda
+opencode/alibaba-cn/deepseek-r1-distill-qwen-1-5b,alibaba-cn/deepseek-r1-distill-qwen-1-5b,alibaba-cn,DeepSeek R1 Distill Qwen 1.5B,unknown,未体检,,no,,6d66942a917155ff
+opencode/alibaba-coding-plan-cn/MiniMax-M2.5,alibaba-coding-plan-cn/MiniMax-M2.5,alibaba-coding-plan-cn,MiniMax-M2.5,unknown,未体检,,no,,ea6cc74f85f18161
+opencode/alibaba-coding-plan-cn/glm-5,alibaba-coding-plan-cn/glm-5,alibaba-coding-plan-cn,GLM-5,unknown,未体检,,no,,aaeb65389942dcea
+opencode/alibaba-coding-plan-cn/kimi-k2.5,alibaba-coding-plan-cn/kimi-k2.5,alibaba-coding-plan-cn,Kimi K2.5,unknown,未体检,,no,,bb0520cb691d9c30
+opencode/alibaba-coding-plan-cn/qwen3.5-plus,alibaba-coding-plan-cn/qwen3.5-plus,alibaba-coding-plan-cn,Qwen3.5 Plus,unknown,未体检,,no,,a25520426459d44a
+opencode/alibaba-coding-plan-cn/qwen3.6-plus,alibaba-coding-plan-cn/qwen3.6-plus,alibaba-coding-plan-cn,Qwen3.6 Plus,unknown,未体检,,no,,100c06e79f0eb93a
+opencode/alibaba-coding-plan-cn/qwen3.7-plus,alibaba-coding-plan-cn/qwen3.7-plus,alibaba-coding-plan-cn,Qwen3.7 Plus,unknown,未体检,,no,,a7b28184c4f3c1f8
+opencode/alibaba-coding-plan/MiniMax-M2.5,alibaba-coding-plan/MiniMax-M2.5,alibaba-coding-plan,MiniMax-M2.5,unknown,未体检,,no,,17e16d2fd37612c9
+opencode/alibaba-coding-plan/glm-5,alibaba-coding-plan/glm-5,alibaba-coding-plan,GLM-5,unknown,未体检,,no,,aaeb65389942dcea
+opencode/alibaba-coding-plan/kimi-k2.5,alibaba-coding-plan/kimi-k2.5,alibaba-coding-plan,Kimi K2.5,unknown,未体检,,no,,5398ad82ce7a74a8
+opencode/alibaba-coding-plan/qwen3.5-plus,alibaba-coding-plan/qwen3.5-plus,alibaba-coding-plan,Qwen3.5 Plus,unknown,未体检,,no,,100c06e79f0eb93a
+opencode/alibaba-coding-plan/qwen3.6-plus,alibaba-coding-plan/qwen3.6-plus,alibaba-coding-plan,Qwen3.6 Plus,unknown,未体检,,no,,100c06e79f0eb93a
+opencode/alibaba-coding-plan/qwen3.7-plus,alibaba-coding-plan/qwen3.7-plus,alibaba-coding-plan,Qwen3.7 Plus,unknown,未体检,,no,,a7b28184c4f3c1f8
+opencode/alibaba-token-plan-cn/MiniMax-M2.5,alibaba-token-plan-cn/MiniMax-M2.5,alibaba-token-plan-cn,MiniMax-M2.5,unknown,未体检,,no,,85f091b0e3bb1d2e
+opencode/alibaba-token-plan-cn/deepseek-v4-flash-0731,alibaba-token-plan-cn/deepseek-v4-flash-0731,alibaba-token-plan-cn,DeepSeek V4 Flash 0731,unknown,未体检,,no,,4341470139bc3055
+opencode/alibaba-token-plan-cn/deepseek-v4-pro,alibaba-token-plan-cn/deepseek-v4-pro,alibaba-token-plan-cn,DeepSeek V4 Pro,unknown,未体检,,no,,4341470139bc3055
+opencode/alibaba-token-plan-cn/deepseek-v4-pro-0813,alibaba-token-plan-cn/deepseek-v4-pro-0813,alibaba-token-plan-cn,DeepSeek V4 Pro 0813,unknown,未体检,,no,,26b9595600cf542e
+opencode/alibaba-token-plan-cn/deepseek-v4.1-flash,alibaba-token-plan-cn/deepseek-v4.1-flash,alibaba-token-plan-cn,DeepSeek V4.1 Flash,unknown,未体检,,no,,3b6e87a5a6cf4d2b
+opencode/alibaba-token-plan-cn/deepseek-v4.1-flash-1017,alibaba-token-plan-cn/deepseek-v4.1-flash-1017,alibaba-token-plan-cn,DeepSeek V4.1 Flash 1017,unknown,未体检,,no,,3b6e87a5a6cf4d2b
+opencode/alibaba-token-plan-cn/glm-5,alibaba-token-plan-cn/glm-5,alibaba-token-plan-cn,GLM-5,unknown,未体检,,no,,887c307ca6669e9f
+opencode/alibaba-token-plan-cn/glm-5.1,alibaba-token-plan-cn/glm-5.1,alibaba-token-plan-cn,GLM-5.1,unknown,未体检,,no,,0c35470d6e2ab56d
+opencode/alibaba-token-plan-cn/glm-5.2,alibaba-token-plan-cn/glm-5.2,alibaba-token-plan-cn,GLM-5.2,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/alibaba-token-plan-cn/glm-5.3,alibaba-token-plan-cn/glm-5.3,alibaba-token-plan-cn,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/alibaba-token-plan-cn/happyhorse-1.1-i2v,alibaba-token-plan-cn/happyhorse-1.1-i2v,alibaba-token-plan-cn,HappyHorse 1.1 Image-to-Video,unknown,未体检,,no,,57dc8eaf445fec74
+opencode/alibaba-token-plan-cn/happyhorse-1.1-r2v,alibaba-token-plan-cn/happyhorse-1.1-r2v,alibaba-token-plan-cn,HappyHorse 1.1 Reference-to-Video,unknown,未体检,,no,,57dc8eaf445fec74
+opencode/alibaba-token-plan-cn/happyhorse-1.1-t2v,alibaba-token-plan-cn/happyhorse-1.1-t2v,alibaba-token-plan-cn,HappyHorse 1.1 Text-to-Video,unknown,未体检,,no,,8fdb7b3c319f30a6
+opencode/alibaba-token-plan-cn/kimi-k2.5,alibaba-token-plan-cn/kimi-k2.5,alibaba-token-plan-cn,Kimi K2.5,unknown,未体检,,no,,32a0ccba59e192f5
+opencode/alibaba-token-plan-cn/kimi-k2.6,alibaba-token-plan-cn/kimi-k2.6,alibaba-token-plan-cn,Kimi K2.6,unknown,未体检,,no,,a44eb7b8aae42bcb
+opencode/alibaba-token-plan-cn/kimi-k2.7-code,alibaba-token-plan-cn/kimi-k2.7-code,alibaba-token-plan-cn,Kimi K2.7 Code,unknown,未体检,,no,,f0b0a004e636857f
+opencode/alibaba-token-plan-cn/qwen-image-2.0,alibaba-token-plan-cn/qwen-image-2.0,alibaba-token-plan-cn,Qwen Image 2.0,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan-cn/qwen-image-2.0-pro,alibaba-token-plan-cn/qwen-image-2.0-pro,alibaba-token-plan-cn,Qwen Image 2.0 Pro,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan-cn/qwen3.6-flash,alibaba-token-plan-cn/qwen3.6-flash,alibaba-token-plan-cn,Qwen3.6 Flash,unknown,未体检,,no,,27ea7baa7edd8c14
+opencode/alibaba-token-plan-cn/qwen3.6-plus,alibaba-token-plan-cn/qwen3.6-plus,alibaba-token-plan-cn,Qwen3.6 Plus,unknown,未体检,,no,,a3009be77f58c926
+opencode/alibaba-token-plan-cn/qwen3.7-max,alibaba-token-plan-cn/qwen3.7-max,alibaba-token-plan-cn,Qwen3.7 Max,unknown,未体检,,no,,0909df390233eda2
+opencode/alibaba-token-plan-cn/qwen3.7-plus,alibaba-token-plan-cn/qwen3.7-plus,alibaba-token-plan-cn,Qwen3.7 Plus,unknown,未体检,,no,,a3009be77f58c926
+opencode/alibaba-token-plan-cn/qwen3.8-flash,alibaba-token-plan-cn/qwen3.8-flash,alibaba-token-plan-cn,Qwen3.8 Flash,unknown,未体检,,no,,c45ff2cec4d56c35
+opencode/alibaba-token-plan-cn/qwen3.8-max,alibaba-token-plan-cn/qwen3.8-max,alibaba-token-plan-cn,Qwen3.8 Max,unknown,未体检,,no,,ed260da96a9cd77a
+opencode/alibaba-token-plan-cn/wan2.7-image,alibaba-token-plan-cn/wan2.7-image,alibaba-token-plan-cn,Wan2.7 Image,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan-cn/wan2.7-image-pro,alibaba-token-plan-cn/wan2.7-image-pro,alibaba-token-plan-cn,Wan2.7 Image Pro,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan/MiniMax-M2.5,alibaba-token-plan/MiniMax-M2.5,alibaba-token-plan,MiniMax-M2.5,unknown,未体检,,no,,85f091b0e3bb1d2e
+opencode/alibaba-token-plan/deepseek-v4-flash-0731,alibaba-token-plan/deepseek-v4-flash-0731,alibaba-token-plan,DeepSeek V4 Flash 0731,unknown,未体检,,no,,4341470139bc3055
+opencode/alibaba-token-plan/deepseek-v4-pro,alibaba-token-plan/deepseek-v4-pro,alibaba-token-plan,DeepSeek V4 Pro,unknown,未体检,,no,,4341470139bc3055
+opencode/alibaba-token-plan/deepseek-v4-pro-0813,alibaba-token-plan/deepseek-v4-pro-0813,alibaba-token-plan,DeepSeek V4 Pro 0813,unknown,未体检,,no,,26b9595600cf542e
+opencode/alibaba-token-plan/deepseek-v4.1-flash,alibaba-token-plan/deepseek-v4.1-flash,alibaba-token-plan,DeepSeek V4.1 Flash,unknown,未体检,,no,,510f4992f9c73fb9
+opencode/alibaba-token-plan/deepseek-v4.1-flash-1017,alibaba-token-plan/deepseek-v4.1-flash-1017,alibaba-token-plan,DeepSeek V4.1 Flash 1017,unknown,未体检,,no,,510f4992f9c73fb9
+opencode/alibaba-token-plan/glm-5,alibaba-token-plan/glm-5,alibaba-token-plan,GLM-5,unknown,未体检,,no,,887c307ca6669e9f
+opencode/alibaba-token-plan/glm-5.1,alibaba-token-plan/glm-5.1,alibaba-token-plan,GLM-5.1,unknown,未体检,,no,,0c35470d6e2ab56d
+opencode/alibaba-token-plan/glm-5.2,alibaba-token-plan/glm-5.2,alibaba-token-plan,GLM-5.2,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/alibaba-token-plan/glm-5.3,alibaba-token-plan/glm-5.3,alibaba-token-plan,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/alibaba-token-plan/happyhorse-1.1-i2v,alibaba-token-plan/happyhorse-1.1-i2v,alibaba-token-plan,HappyHorse 1.1 Image-to-Video,unknown,未体检,,no,,57dc8eaf445fec74
+opencode/alibaba-token-plan/happyhorse-1.1-r2v,alibaba-token-plan/happyhorse-1.1-r2v,alibaba-token-plan,HappyHorse 1.1 Reference-to-Video,unknown,未体检,,no,,57dc8eaf445fec74
+opencode/alibaba-token-plan/happyhorse-1.1-t2v,alibaba-token-plan/happyhorse-1.1-t2v,alibaba-token-plan,HappyHorse 1.1 Text-to-Video,unknown,未体检,,no,,8fdb7b3c319f30a6
+opencode/alibaba-token-plan/kimi-k2.5,alibaba-token-plan/kimi-k2.5,alibaba-token-plan,Kimi K2.5,unknown,未体检,,no,,32a0ccba59e192f5
+opencode/alibaba-token-plan/kimi-k2.6,alibaba-token-plan/kimi-k2.6,alibaba-token-plan,Kimi K2.6,unknown,未体检,,no,,a44eb7b8aae42bcb
+opencode/alibaba-token-plan/kimi-k2.7-code,alibaba-token-plan/kimi-k2.7-code,alibaba-token-plan,Kimi K2.7 Code,unknown,未体检,,no,,f0b0a004e636857f
+opencode/alibaba-token-plan/qwen-image-2.0,alibaba-token-plan/qwen-image-2.0,alibaba-token-plan,Qwen Image 2.0,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan/qwen-image-2.0-pro,alibaba-token-plan/qwen-image-2.0-pro,alibaba-token-plan,Qwen Image 2.0 Pro,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan/qwen3.6-flash,alibaba-token-plan/qwen3.6-flash,alibaba-token-plan,Qwen3.6 Flash,unknown,未体检,,no,,27ea7baa7edd8c14
+opencode/alibaba-token-plan/qwen3.6-plus,alibaba-token-plan/qwen3.6-plus,alibaba-token-plan,Qwen3.6 Plus,unknown,未体检,,no,,a3009be77f58c926
+opencode/alibaba-token-plan/qwen3.7-max,alibaba-token-plan/qwen3.7-max,alibaba-token-plan,Qwen3.7 Max,unknown,未体检,,no,,0909df390233eda2
+opencode/alibaba-token-plan/qwen3.7-plus,alibaba-token-plan/qwen3.7-plus,alibaba-token-plan,Qwen3.7 Plus,unknown,未体检,,no,,a3009be77f58c926
+opencode/alibaba-token-plan/qwen3.8-flash,alibaba-token-plan/qwen3.8-flash,alibaba-token-plan,Qwen3.8 Flash,unknown,未体检,,no,,c45ff2cec4d56c35
+opencode/alibaba-token-plan/qwen3.8-max,alibaba-token-plan/qwen3.8-max,alibaba-token-plan,Qwen3.8 Max,unknown,未体检,,no,,ed260da96a9cd77a
+opencode/alibaba-token-plan/wan2.7-image,alibaba-token-plan/wan2.7-image,alibaba-token-plan,Wan2.7 Image,unknown,未体检,,no,,81740e1f5336e52c
+opencode/alibaba-token-plan/wan2.7-image-pro,alibaba-token-plan/wan2.7-image-pro,alibaba-token-plan,Wan2.7 Image Pro,unknown,未体检,,no,,81740e1f5336e52c
+opencode/amd/DeepSeek-V4-Flash,amd/DeepSeek-V4-Flash,amd,DeepSeek V4 Flash 0731,unknown,未体检,,no,,5408d246a6e43ad1
+opencode/amd/DeepSeek-V4.1-Flash,amd/DeepSeek-V4.1-Flash,amd,DeepSeek V4.1 Flash,unknown,未体检,,no,,81167dc62cfc69ad
+opencode/amd/GLM-5.3-Flash,amd/GLM-5.3-Flash,amd,GLM-5.3-Flash,unknown,未体检,,no,,9f3bafb53bc227d3
+opencode/amd/Gemma-4-31B-IT,amd/Gemma-4-31B-IT,amd,Gemma 4 31B IT,unknown,未体检,,no,,40af88298bf53c6f
+opencode/amd/MiMo-V2.6-Flash,amd/MiMo-V2.6-Flash,amd,MiMo-V2.6-Flash,unknown,未体检,,no,,1485647d9792d915
+opencode/amd/MiniCPM-V-4.7-1B,amd/MiniCPM-V-4.7-1B,amd,MiniCPM-V 4.7 1B,unknown,未体检,,no,,bb8eaff391dc2cc5
+opencode/amd/MiniCPM-V-4.7-35B-A3B,amd/MiniCPM-V-4.7-35B-A3B,amd,MiniCPM-V 4.7 35B-A3B,unknown,未体检,,no,,bb8eaff391dc2cc5
+opencode/amd/MiniCPM5-2B,amd/MiniCPM5-2B,amd,MiniCPM5-2B,unknown,未体检,,no,,ffb08d53109910ef
+opencode/amd/Qwen3.8-27B,amd/Qwen3.8-27B,amd,Qwen3.8 27B,unknown,未体检,,no,,498fa13df9c5f3b8
+opencode/amd/Qwen3.8-Flash-Next,amd/Qwen3.8-Flash-Next,amd,Qwen3.8 Flash Next,unknown,未体检,,no,,223baa37a7c23d72
+opencode/atomic-chat/Meta-Llama-3_1-8B-Instruct-GGUF,atomic-chat/Meta-Llama-3_1-8B-Instruct-GGUF,atomic-chat,Meta Llama 3.1 8B Instruct (GGUF),unknown,未体检,,no,,aa1a0128e35ac96d
+opencode/atomic-chat/Qwen3_5-9B-MLX-4bit,atomic-chat/Qwen3_5-9B-MLX-4bit,atomic-chat,Qwen 3.5 9B (MLX 4-bit),unknown,未体检,,no,,4efab803f3cf5bb1
+opencode/atomic-chat/Qwen3_5-9B-Q4_K_M,atomic-chat/Qwen3_5-9B-Q4_K_M,atomic-chat,Qwen 3.5 9B (Q4_K_M),unknown,未体检,,no,,4efab803f3cf5bb1
+opencode/atomic-chat/gemma-4-E4B-it-IQ4_XS,atomic-chat/gemma-4-E4B-it-IQ4_XS,atomic-chat,Gemma 4 E4B Instruct (IQ4_XS),unknown,未体检,,no,,b293261c3ab5a016
+opencode/atomic-chat/gemma-4-E4B-it-MLX-4bit,atomic-chat/gemma-4-E4B-it-MLX-4bit,atomic-chat,Gemma 4 E4B Instruct (MLX 4-bit),unknown,未体检,,no,,b293261c3ab5a016
+opencode/bothub/gemma-4-31b-it:free,bothub/gemma-4-31b-it:free,bothub,Gemma 4 31B IT (free),unknown,未体检,,no,,c6de1eb5815fd0d9
+opencode/bothub/nemotron-3-ultra-550b-a55b:free,bothub/nemotron-3-ultra-550b-a55b:free,bothub,Nemotron 3 Ultra (free),unknown,未体检,,no,,e94fdaca4d0847eb
+opencode/cloudflare-ai-gateway/reflection-ai/beam-1.0-501b-a23b,cloudflare-ai-gateway/reflection-ai/beam-1.0-501b-a23b,cloudflare-ai-gateway,Beam 1.0 501B A23B,unknown,未体检,,no,,b20676e34ea7f8e8
+opencode/cohere/north-mini-code-1-0,cohere/north-mini-code-1-0,cohere,North Mini Code,unknown,未体检,,no,,f2a35c5bf8ee92cc
+opencode/cohere/north-small-translate-09-2026,cohere/north-small-translate-09-2026,cohere,North Small Translate,unknown,未体检,,no,,461e46d3f38ec416
+opencode/cortecs/qwen3guard-gen-0.6b,cortecs/qwen3guard-gen-0.6b,cortecs,qwen3guard-gen-0.6b,unknown,未体检,,no,,ec875f6ccb8bbcb0
+opencode/cortecs/qwen3guard-gen-8b,cortecs/qwen3guard-gen-8b,cortecs,qwen3guard-gen-8b,unknown,未体检,,no,,ec875f6ccb8bbcb0
+opencode/empiriolabs/glm-4-5-flash,empiriolabs/glm-4-5-flash,empiriolabs,GLM 4.5 Flash,unknown,未体检,,no,,7dddad59bbf4a759
+opencode/empiriolabs/glm-4-6v-flash,empiriolabs/glm-4-6v-flash,empiriolabs,GLM 4.6V Flash,unknown,未体检,,no,,275dd247a84ad3f0
+opencode/empiriolabs/glm-4-7-flash,empiriolabs/glm-4-7-flash,empiriolabs,GLM 4.7 Flash,unknown,未体检,,no,,d6faf12cedf39a71
+opencode/gitlab/duo-chat-fable-5,gitlab/duo-chat-fable-5,gitlab,Agentic Chat (Claude Fable 5),unknown,未体检,,no,,73aa6575bd549968
+opencode/gitlab/duo-chat-fable-5-1,gitlab/duo-chat-fable-5-1,gitlab,Agentic Chat (Claude Fable 5.1),unknown,未体检,,no,,b32f8408ef7375d0
+opencode/gitlab/duo-chat-gpt-5-2,gitlab/duo-chat-gpt-5-2,gitlab,Agentic Chat (GPT-5.2),unknown,未体检,,no,,1c6e6f9781281d01
+opencode/gitlab/duo-chat-gpt-5-4,gitlab/duo-chat-gpt-5-4,gitlab,Agentic Chat (GPT-5.4),unknown,未体检,,no,,8964df4adfc85d2d
+opencode/gitlab/duo-chat-gpt-5-4-mini,gitlab/duo-chat-gpt-5-4-mini,gitlab,Agentic Chat (GPT-5.4 Mini),unknown,未体检,,no,,1c6e6f9781281d01
+opencode/gitlab/duo-chat-gpt-5-5,gitlab/duo-chat-gpt-5-5,gitlab,Agentic Chat (GPT-5.5),unknown,未体检,,no,,cd86b5048427be26
+opencode/gitlab/duo-chat-gpt-5-6-luna,gitlab/duo-chat-gpt-5-6-luna,gitlab,Agentic Chat (GPT-5.6 Luna),unknown,未体检,,no,,3adb520ae7b71e13
+opencode/gitlab/duo-chat-gpt-5-6-sol,gitlab/duo-chat-gpt-5-6-sol,gitlab,Agentic Chat (GPT-5.6 Sol),unknown,未体检,,no,,3adb520ae7b71e13
+opencode/gitlab/duo-chat-gpt-5-6-terra,gitlab/duo-chat-gpt-5-6-terra,gitlab,Agentic Chat (GPT-5.6 Terra),unknown,未体检,,no,,3adb520ae7b71e13
+opencode/gitlab/duo-chat-gpt-6-1-sol,gitlab/duo-chat-gpt-6-1-sol,gitlab,Agentic Chat (GPT-6.1 Sol),unknown,未体检,,no,,95e31f32729772bf
+opencode/gitlab/duo-chat-gpt-6-astra,gitlab/duo-chat-gpt-6-astra,gitlab,Agentic Chat (GPT-6 Astra),unknown,未体检,,no,,95e31f32729772bf
+opencode/gitlab/duo-chat-gpt-6-luna,gitlab/duo-chat-gpt-6-luna,gitlab,Agentic Chat (GPT-6 Luna),unknown,未体检,,no,,f7d299312426953b
+opencode/gitlab/duo-chat-gpt-6-sol,gitlab/duo-chat-gpt-6-sol,gitlab,Agentic Chat (GPT-6 Sol),unknown,未体检,,no,,8f7f9d72c3bd4b82
+opencode/gitlab/duo-chat-haiku-4-5,gitlab/duo-chat-haiku-4-5,gitlab,Agentic Chat (Claude Haiku 4.5),unknown,未体检,,no,,0627766163af865e
+opencode/gitlab/duo-chat-haiku-5-5,gitlab/duo-chat-haiku-5-5,gitlab,Agentic Chat (Claude Haiku 5.5),unknown,未体检,,no,,b32f8408ef7375d0
+opencode/gitlab/duo-chat-opus-4-5,gitlab/duo-chat-opus-4-5,gitlab,Agentic Chat (Claude Opus 4.5),unknown,未体检,,no,,c43da84adacd083f
+opencode/gitlab/duo-chat-opus-4-6,gitlab/duo-chat-opus-4-6,gitlab,Agentic Chat (Claude Opus 4.6),unknown,未体检,,no,,bdcfabe89ed56666
+opencode/gitlab/duo-chat-opus-4-7,gitlab/duo-chat-opus-4-7,gitlab,Agentic Chat (Claude Opus 4.7),unknown,未体检,,no,,73aa6575bd549968
+opencode/gitlab/duo-chat-opus-4-8,gitlab/duo-chat-opus-4-8,gitlab,Agentic Chat (Claude Opus 4.8),unknown,未体检,,no,,142e33485ba5b8ff
+opencode/gitlab/duo-chat-opus-5,gitlab/duo-chat-opus-5,gitlab,Agentic Chat (Claude Opus 5),unknown,未体检,,no,,3b501815c58877b3
+opencode/gitlab/duo-chat-opus-5-5,gitlab/duo-chat-opus-5-5,gitlab,Agentic Chat (Claude Opus 5.5),unknown,未体检,,no,,b32f8408ef7375d0
+opencode/gitlab/duo-chat-sonnet-4-6,gitlab/duo-chat-sonnet-4-6,gitlab,Agentic Chat (Claude Sonnet 4.6),unknown,未体检,,no,,6daaf4219995a8b5
+opencode/gitlab/duo-chat-sonnet-5,gitlab/duo-chat-sonnet-5,gitlab,Agentic Chat (Claude Sonnet 5),unknown,未体检,,no,,e7f072e25abbcc42
+opencode/gitlab/duo-chat-sonnet-5-5,gitlab/duo-chat-sonnet-5-5,gitlab,Agentic Chat (Claude Sonnet 5.5),unknown,未体检,,no,,522a483a54108c21
+opencode/google/lyria-3-clip-preview,google/lyria-3-clip-preview,google,Lyria 3 Clip Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/google/lyria-3-pro-preview,google/lyria-3-pro-preview,google,Lyria 3 Pro Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/groq/allam-2-7b,groq/allam-2-7b,groq,ALLaM-2-7b,unknown,未体检,,no,,83b951459f087efd
+opencode/hetzner/Qwen/Qwen3.6-35B-A3B-FP8,hetzner/Qwen/Qwen3.6-35B-A3B-FP8,hetzner,Qwen3.6 35B A3B FP8,unknown,未体检,,no,,bb8eaff391dc2cc5
+opencode/hetzner/Qwen3.8-27B,hetzner/Qwen3.8-27B,hetzner,Qwen3.8-27B,unknown,未体检,,no,,bb8eaff391dc2cc5
+opencode/huggingface/zai-org/GLM-4.7-Flash,huggingface/zai-org/GLM-4.7-Flash,huggingface,GLM-4.7-Flash,unknown,未体检,,no,,4da9f392e16ddae6
+opencode/inferx/Agents-A1,inferx/Agents-A1,inferx,Agents-A1,unknown,未体检,,no,,b6827878fede3f36
+opencode/inferx/Devstral-2-123B-Instruct-2512-int4-AutoRound,inferx/Devstral-2-123B-Instruct-2512-int4-AutoRound,inferx,Devstral-2-123B-Instruct-2512-int4-AutoRound,unknown,未体检,,no,,26d1f52bb6ada68e
+opencode/inferx/Ornith-1.0-35B-FP8,inferx/Ornith-1.0-35B-FP8,inferx,Ornith-1.0-35B-FP8,unknown,未体检,,no,,89d30bf5f09d38ee
+opencode/inferx/Qwen3-Coder-Next-FP8,inferx/Qwen3-Coder-Next-FP8,inferx,Qwen3 Coder Next FP8,unknown,未体检,,no,,525b6e0f1b96a8b5
+opencode/inferx/Qwen3-Coder-Next-FP8-no-thinking,inferx/Qwen3-Coder-Next-FP8-no-thinking,inferx,Qwen3-Coder-Next-FP8-no-thinking,unknown,未体检,,no,,57772b0a39e51a34
+opencode/inferx/Qwen3-Embedding-8B,inferx/Qwen3-Embedding-8B,inferx,Qwen3-Embedding-8B,unknown,未体检,,no,,3f1adee25122db89
+opencode/inferx/Qwen3.6-27B-FP8,inferx/Qwen3.6-27B-FP8,inferx,Qwen3.6 27B FP8,unknown,未体检,,no,,45e79f2d2d42cb44
+opencode/inferx/Qwen3.6-35B-A3B-FP8,inferx/Qwen3.6-35B-A3B-FP8,inferx,Qwen3.6 35B A3B FP8,unknown,未体检,,no,,22374a2f098bc468
+opencode/inferx/Qwen3.6-35B-A3B-fp8-no-thinking,inferx/Qwen3.6-35B-A3B-fp8-no-thinking,inferx,Qwen3.6-35B-A3B-fp8-no-thinking,unknown,未体检,,no,,4c9355648a08349d
+opencode/inferx/deepseek-v4-flash,inferx/deepseek-v4-flash,inferx,deepseek-v4-flash,unknown,未体检,,no,,1c18217f418a3b76
+opencode/inferx/gemma-4-31B-it-fp8,inferx/gemma-4-31B-it-fp8,inferx,Gemma 4 31B IT FP8,unknown,未体检,,no,,40af88298bf53c6f
+opencode/inferx/mimo-v25,inferx/mimo-v25,inferx,mimo-v25,unknown,未体检,,no,,09ae71a257d86657
+opencode/infomaniak/mini_lm_l12_v2,infomaniak/mini_lm_l12_v2,infomaniak,All-MiniLM-L12-v2,unknown,未体检,,no,,18509e9d468da444
+opencode/iteracompute/qwen/qwen3.8-27b,iteracompute/qwen/qwen3.8-27b,iteracompute,Qwen3.8 27B,unknown,未体检,,no,,e2fa0dbb38c679ed
+opencode/kenari/glm-4-7-flash:free,kenari/glm-4-7-flash:free,kenari,GLM-4.7-Flash (Free),unknown,未体检,,no,,496fa8df6068c376
+opencode/kenari/hy3:free,kenari/hy3:free,kenari,Hy3 (Free),unknown,未体检,,no,,7561384b6ddc566e
+opencode/kenari/nemotron-3-super-120b-a12b:free,kenari/nemotron-3-super-120b-a12b:free,kenari,Nemotron 3 Super 120B A12B (Free),unknown,未体检,,no,,df08392f736b886f
+opencode/kilo/cohere/north-mini-code:free,kilo/cohere/north-mini-code:free,kilo,Cohere: North Mini Code (free),unknown,未体检,,no,,f895a0183ff52f8d
+opencode/kilo/dots-studio/dots-3-note-preview:free,kilo/dots-studio/dots-3-note-preview:free,kilo,Dots Studio: Dots3-Note Preview (free),unknown,未体检,,no,,98235c70cce3af7a
+opencode/kilo/google/lyria-3-clip-preview,kilo/google/lyria-3-clip-preview,kilo,Lyria 3 Clip Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/kilo/google/lyria-3-pro-preview,kilo/google/lyria-3-pro-preview,kilo,Lyria 3 Pro Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/kilo/kilo-auto/free,kilo/kilo-auto/free,kilo,Auto Free,unknown,未体检,,no,,71a384d665bac010
+opencode/kilo/liquid/lfm-3-1.7b:free,kilo/liquid/lfm-3-1.7b:free,kilo,LiquidAI: LFM3-1.7B (free),unknown,未体检,,no,,86305de62a00cdcb
+opencode/kilo/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,kilo/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,kilo,NVIDIA: Nemotron 3 Nano Omni (free),unknown,未体检,,no,,22498a2880db57ca
+opencode/kilo/nvidia/nemotron-3-ultra-550b-a55b:free,kilo/nvidia/nemotron-3-ultra-550b-a55b:free,kilo,NVIDIA: Nemotron 3 Ultra (free),unknown,未体检,,no,,15540d5745e2b8c4
+opencode/kilo/nvidia/nemotron-3.5-lightning:free,kilo/nvidia/nemotron-3.5-lightning:free,kilo,NVIDIA: Nemotron 3.5 Lightning (free),unknown,未体检,,no,,15540d5745e2b8c4
+opencode/kilo/nvidia/nemotron-3.5-super-vl:free,kilo/nvidia/nemotron-3.5-super-vl:free,kilo,NVIDIA: Nemotron 3.5 Super VL (free),unknown,未体检,,no,,781bd5b8fb226ee9
+opencode/kilo/openrouter/auto,kilo/openrouter/auto,kilo,Auto Router,unknown,未体检,,no,,3bd1a91e32662e43
+opencode/kilo/openrouter/bodybuilder,kilo/openrouter/bodybuilder,kilo,Body Builder (beta),unknown,未体检,,no,,509abd5f356ec5a4
+opencode/kilo/openrouter/free,kilo/openrouter/free,kilo,OpenRouter Free Models Router,unknown,未体检,,no,,90c127c60d8fe310
+opencode/kilo/openrouter/pareto-code,kilo/openrouter/pareto-code,kilo,Pareto Code Router,unknown,未体检,,no,,fcd1202454d382b0
+opencode/kilo/reflection/beam-free,kilo/reflection/beam-free,kilo,Reflection: Beam 1.0 (free),unknown,未体检,,no,,d9859bcbbc2b3c29
+opencode/kilo/stealth/crouton-alpha,kilo/stealth/crouton-alpha,kilo,Crouton Alpha,unknown,未体检,,no,,b62e0a1b8ffebb35
+opencode/kilo/stealth/glyph-cluster,kilo/stealth/glyph-cluster,kilo,Stealth: Glyph Cluster (free),unknown,未体检,,no,,fdfdee08aaf491a1
+opencode/kimi-code-plan-cn/k3,kimi-code-plan-cn/k3,kimi-code-plan-cn,Kimi K3,unknown,未体检,,no,,e05e90a01494302e
+opencode/kimi-code-plan-cn/k3-256k,kimi-code-plan-cn/k3-256k,kimi-code-plan-cn,Kimi K3-256K,unknown,未体检,,no,,80a443059476d9e7
+opencode/kimi-code-plan-cn/k3.1-pro,kimi-code-plan-cn/k3.1-pro,kimi-code-plan-cn,Kimi K3.1 Pro,unknown,未体检,,no,,46bb002ea37aef15
+opencode/kimi-code-plan-cn/k3.1-pro-highspeed,kimi-code-plan-cn/k3.1-pro-highspeed,kimi-code-plan-cn,Kimi K3.1 Pro Highspeed,unknown,未体检,,no,,46bb002ea37aef15
+opencode/kimi-code-plan-cn/kimi-for-coding,kimi-code-plan-cn/kimi-for-coding,kimi-code-plan-cn,Kimi K2.8 Preview,unknown,未体检,,no,,6b9a727c32a8a8ff
+opencode/kimi-code-plan-cn/kimi-for-coding-highspeed,kimi-code-plan-cn/kimi-for-coding-highspeed,kimi-code-plan-cn,Kimi For Coding HighSpeed,unknown,未体检,,no,,285f65438fda47d4
+opencode/kimi-code-plan-global/k3,kimi-code-plan-global/k3,kimi-code-plan-global,Kimi K3,unknown,未体检,,no,,e05e90a01494302e
+opencode/kimi-code-plan-global/k3-256k,kimi-code-plan-global/k3-256k,kimi-code-plan-global,Kimi K3-256K,unknown,未体检,,no,,80a443059476d9e7
+opencode/kimi-code-plan-global/k3.1-pro,kimi-code-plan-global/k3.1-pro,kimi-code-plan-global,Kimi K3.1 Pro,unknown,未体检,,no,,46bb002ea37aef15
+opencode/kimi-code-plan-global/k3.1-pro-highspeed,kimi-code-plan-global/k3.1-pro-highspeed,kimi-code-plan-global,Kimi K3.1 Pro Highspeed,unknown,未体检,,no,,46bb002ea37aef15
+opencode/kimi-code-plan-global/kimi-for-coding,kimi-code-plan-global/kimi-for-coding,kimi-code-plan-global,kimi-for-coding,unknown,未体检,,no,,6b9a727c32a8a8ff
+opencode/kimi-code-plan-global/kimi-for-coding-highspeed,kimi-code-plan-global/kimi-for-coding-highspeed,kimi-code-plan-global,Kimi For Coding HighSpeed,unknown,未体检,,no,,285f65438fda47d4
+opencode/kuae-cloud-coding-plan/GLM-4.7,kuae-cloud-coding-plan/GLM-4.7,kuae-cloud-coding-plan,GLM-4.7,unknown,未体检,,no,,70dd96a0863c5c2b
+opencode/llmgateway-providers/azure/gpt-live-transcribe,llmgateway-providers/azure/gpt-live-transcribe,llmgateway-providers,GPT Live Transcribe (Azure),unknown,未体检,,no,,d7f98feec1d75e7b
+opencode/llmgateway-providers/azure/gpt-transcribe,llmgateway-providers/azure/gpt-transcribe,llmgateway-providers,GPT Transcribe (Azure),unknown,未体检,,no,,8613635b529bba0d
+opencode/llmgateway-providers/openai/gpt-live-transcribe,llmgateway-providers/openai/gpt-live-transcribe,llmgateway-providers,GPT Live Transcribe (OpenAI),unknown,未体检,,no,,d7f98feec1d75e7b
+opencode/llmgateway-providers/openai/gpt-transcribe,llmgateway-providers/openai/gpt-transcribe,llmgateway-providers,GPT Transcribe (OpenAI),unknown,未体检,,no,,8613635b529bba0d
+opencode/llmgateway/auto,llmgateway/auto,llmgateway,Auto Route,unknown,未体检,,no,,77200a9812d3f37a
+opencode/llmgateway/custom,llmgateway/custom,llmgateway,Custom Model,unknown,未体检,,no,,77200a9812d3f37a
+opencode/llmgateway/gpt-live-transcribe,llmgateway/gpt-live-transcribe,llmgateway,GPT-Live-Transcribe,unknown,未体检,,no,,d7f98feec1d75e7b
+opencode/llmgateway/gpt-transcribe,llmgateway/gpt-transcribe,llmgateway,GPT-Transcribe,unknown,未体检,,no,,8613635b529bba0d
+opencode/llmtr/poolside/laguna-xs-2.1,llmtr/poolside/laguna-xs-2.1,llmtr,Laguna XS 2.1,unknown,未体检,,no,,439598848e882f98
+opencode/lmstudio/openai/gpt-oss-20b,lmstudio/openai/gpt-oss-20b,lmstudio,GPT OSS 20B,unknown,未体检,,no,,de34d8be546629c4
+opencode/lmstudio/qwen/qwen3-30b-a3b-2507,lmstudio/qwen/qwen3-30b-a3b-2507,lmstudio,Qwen3 30B A3B 2507,unknown,未体检,,no,,c884c96c1225bc15
+opencode/lmstudio/qwen/qwen3-coder-30b,lmstudio/qwen/qwen3-coder-30b,lmstudio,Qwen3 Coder 30B,unknown,未体检,,no,,435c4684f02953ad
+opencode/lynkr/lynkr-auto,lynkr/lynkr-auto,lynkr,Lynkr Auto (complexity routing),unknown,未体检,,no,,7fcdfd062823d5b0
+opencode/meganova/mistralai/Mistral-Small-3.2-24B-Instruct-2506,meganova/mistralai/Mistral-Small-3.2-24B-Instruct-2506,meganova,Mistral Small 3.2 24B Instruct,unknown,未体检,,no,,54526fe0211a09c2
+opencode/merge-gateway/nvidia/nemotron-3.5-lightning-30b-a3b,merge-gateway/nvidia/nemotron-3.5-lightning-30b-a3b,merge-gateway,Nemotron 3.5 Lightning 30B A3B,unknown,未体检,,no,,16617f3d2f2cf13b
+opencode/minimax-cn-coding-plan/MiniMax-M3,minimax-cn-coding-plan/MiniMax-M3,minimax-cn-coding-plan,MiniMax-M3,unknown,未体检,,no,,80f1231ce044a3f4
+opencode/minimax-cn-coding-plan/MiniMax-M3.1-Flash,minimax-cn-coding-plan/MiniMax-M3.1-Flash,minimax-cn-coding-plan,MiniMax-M3.1-Flash,unknown,未体检,,no,,80f1231ce044a3f4
+opencode/minimax-coding-plan/MiniMax-M3,minimax-coding-plan/MiniMax-M3,minimax-coding-plan,MiniMax-M3,unknown,未体检,,no,,80f1231ce044a3f4
+opencode/minimax-coding-plan/MiniMax-M3.1-Flash,minimax-coding-plan/MiniMax-M3.1-Flash,minimax-coding-plan,MiniMax-M3.1-Flash,unknown,未体检,,no,,80f1231ce044a3f4
+opencode/modelscope/Qwen/Qwen3-235B-A22B-Instruct-2507,modelscope/Qwen/Qwen3-235B-A22B-Instruct-2507,modelscope,Qwen3 235B A22B Instruct 2507,unknown,未体检,,no,,b46bc5679265630d
+opencode/modelscope/Qwen/Qwen3-235B-A22B-Thinking-2507,modelscope/Qwen/Qwen3-235B-A22B-Thinking-2507,modelscope,Qwen3-235B-A22B-Thinking-2507,unknown,未体检,,no,,bc86699ba90b342f
+opencode/modelscope/Qwen/Qwen3-30B-A3B-Instruct-2507,modelscope/Qwen/Qwen3-30B-A3B-Instruct-2507,modelscope,Qwen3 30B A3B Instruct 2507,unknown,未体检,,no,,c884c96c1225bc15
+opencode/modelscope/Qwen/Qwen3-30B-A3B-Thinking-2507,modelscope/Qwen/Qwen3-30B-A3B-Thinking-2507,modelscope,Qwen3 30B A3B Thinking 2507,unknown,未体检,,no,,dd60c4a5cd639786
+opencode/modelscope/Qwen/Qwen3-Coder-30B-A3B-Instruct,modelscope/Qwen/Qwen3-Coder-30B-A3B-Instruct,modelscope,Qwen3 Coder 30B A3B Instruct,unknown,未体检,,no,,435c4684f02953ad
+opencode/modelscope/ZhipuAI/GLM-4.5,modelscope/ZhipuAI/GLM-4.5,modelscope,GLM-4.5,unknown,未体检,,no,,a554b28a42cf23e4
+opencode/modelscope/ZhipuAI/GLM-4.6,modelscope/ZhipuAI/GLM-4.6,modelscope,GLM-4.6,unknown,未体检,,no,,79d7da7fcee325da
+opencode/nan/deepseek-v4-flash,nan/deepseek-v4-flash,nan,DeepSeek V4.1 Flash,unknown,未体检,,no,,ca2bc415b4f22636
+opencode/nan/gemma4,nan/gemma4,nan,Gemma 4 26B A4B IT,unknown,未体检,,no,,a40148aa3a3886c5
+opencode/nan/glm5.3,nan/glm5.3,nan,GLM-5.3,unknown,未体检,,no,,944c5292f3ddbaca
+opencode/nan/glm5.3-flash,nan/glm5.3-flash,nan,GLM-5.3-Flash,unknown,未体检,,no,,f23372924881ab53
+opencode/nan/mimo-v2.6-flash,nan/mimo-v2.6-flash,nan,MiMo-V2.6-Flash,unknown,未体检,,no,,b4a2f51e9a4546ec
+opencode/nan/qwen-image-2.1,nan/qwen-image-2.1,nan,Qwen-Image-2.1,unknown,未体检,,no,,cd54b87abf85a735
+opencode/nan/qwen3.6,nan/qwen3.6,nan,Qwen3.6 35B-A3B,unknown,未体检,,no,,aa954a016a77fa41
+opencode/nan/qwen3.8-flash,nan/qwen3.8-flash,nan,Qwen3.8 Flash,unknown,未体检,,no,,251793870391d65e
+opencode/nano-gpt/auto-model,nano-gpt/auto-model,nano-gpt,Auto model,unknown,未体检,,no,,d99981562dfcea1d
+opencode/nano-gpt/nano-gpt-help,nano-gpt/nano-gpt-help,nano-gpt,NanoGPT Help,unknown,未体检,,no,,71dc1faca072124e
+opencode/nova/nova-2-lite-v1,nova/nova-2-lite-v1,nova,Nova 2 Lite,unknown,未体检,,no,,c4098d681e2d6ca5
+opencode/nova/nova-2-pro-v1,nova/nova-2-pro-v1,nova,Nova 2 Pro,unknown,未体检,,no,,a0678a7457e8c737
+opencode/novita-ai/apodex/apodex-1.1-mini,novita-ai/apodex/apodex-1.1-mini,novita-ai,Apodex 1.1 Mini,unknown,未体检,,no,,de945ba4060cdfe7
+opencode/nvidia/black-forest-labs/flux.1-dev,nvidia/black-forest-labs/flux.1-dev,nvidia,FLUX.1-dev,unknown,未体检,,no,,455c49dc8370d642
+opencode/nvidia/black-forest-labs/flux_1-kontext-dev,nvidia/black-forest-labs/flux_1-kontext-dev,nvidia,FLUX.1-Kontext-dev,unknown,未体检,,no,,a93bdca682a2feda
+opencode/nvidia/black-forest-labs/flux_1-schnell,nvidia/black-forest-labs/flux_1-schnell,nvidia,FLUX.1-schnell,unknown,未体检,,no,,420d4566c39e4692
+opencode/nvidia/black-forest-labs/flux_2-klein-4b,nvidia/black-forest-labs/flux_2-klein-4b,nvidia,FLUX.2 Klein 4B,unknown,未体检,,no,,7c4d039c059b867a
+opencode/nvidia/deepseek-ai/deepseek-v4.1-flash,nvidia/deepseek-ai/deepseek-v4.1-flash,nvidia,DeepSeek V4.1 Flash,unknown,未体检,,no,,3b6e87a5a6cf4d2b
+opencode/nvidia/google/diffusiongemma-26b-a4b-it,nvidia/google/diffusiongemma-26b-a4b-it,nvidia,DiffusionGemma 26B A4B IT,unknown,未体检,,no,,231d9450cf5baeed
+opencode/nvidia/google/gemma-4-31b-it,nvidia/google/gemma-4-31b-it,nvidia,Gemma-4-31B-IT,unknown,未体检,,no,,0cf79d3c0af79e5d
+opencode/nvidia/google/google-paligemma,nvidia/google/google-paligemma,nvidia,paligemma,unknown,未体检,,no,,19130448665d52b6
+opencode/nvidia/meta/llama-3.2-11b-vision-instruct,nvidia/meta/llama-3.2-11b-vision-instruct,nvidia,Llama 3.2 11b Vision Instruct,unknown,未体检,,no,,9c66ee95e3e830c1
+opencode/nvidia/meta/llama-3.2-90b-vision-instruct,nvidia/meta/llama-3.2-90b-vision-instruct,nvidia,Llama-3.2-90B-Vision-Instruct,unknown,未体检,,no,,923c7a6f023a19b9
+opencode/nvidia/meta/llama-guard-4-12b,nvidia/meta/llama-guard-4-12b,nvidia,Llama Guard 4 12B,unknown,未体检,,no,,adaee5ec75175e7d
+opencode/nvidia/meta/muse-glimmer-30b,nvidia/meta/muse-glimmer-30b,nvidia,Muse Glimmer 30B,unknown,未体检,,no,,39be148c85ce91d8
+opencode/nvidia/minimaxai/minimax-m3.1-flash,nvidia/minimaxai/minimax-m3.1-flash,nvidia,MiniMax-M3.1-Flash,unknown,未体检,,no,,302a80d83ab9aab0
+opencode/nvidia/nvidia/active-speaker-detection,nvidia/nvidia/active-speaker-detection,nvidia,Active Speaker Detection,unknown,未体检,,no,,29bce45cc3ff047d
+opencode/nvidia/nvidia/bevformer,nvidia/nvidia/bevformer,nvidia,bevformer,unknown,未体检,,no,,342e608530678621
+opencode/nvidia/nvidia/cosmos-transfer2_5-2b,nvidia/nvidia/cosmos-transfer2_5-2b,nvidia,cosmos-transfer2.5-2b,unknown,未体检,,no,,98793599ef6b437b
+opencode/nvidia/nvidia/llama-3.1-nemotron-safety-guard-8b-v3,nvidia/nvidia/llama-3.1-nemotron-safety-guard-8b-v3,nvidia,llama-3.1-nemotron-safety-guard-8b-v3,unknown,未体检,,no,,6bae5687f1c69448
+opencode/nvidia/nvidia/llama-nemotron-embed-vl-1b-v2,nvidia/nvidia/llama-nemotron-embed-vl-1b-v2,nvidia,llama-nemotron-embed-vl-1b-v2,unknown,未体检,,no,,faf6ead2f448a591
+opencode/nvidia/nvidia/llama-nemotron-rerank-vl-1b-v2,nvidia/nvidia/llama-nemotron-rerank-vl-1b-v2,nvidia,llama-nemotron-rerank-vl-1b-v2,unknown,未体检,,no,,a29e9c9be1a6559c
+opencode/nvidia/nvidia/magpie-tts-zeroshot,nvidia/nvidia/magpie-tts-zeroshot,nvidia,magpie-tts-zeroshot,unknown,未体检,,no,,09abc53911ed3faf
+opencode/nvidia/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning,nvidia/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning,nvidia,Nemotron 3 Nano Omni,unknown,未体检,,no,,4597784dc4e33dea
+opencode/nvidia/nvidia/nemotron-3-ultra-550b-a55b,nvidia/nvidia/nemotron-3-ultra-550b-a55b,nvidia,Nemotron 3 Ultra 550B A55B,unknown,未体检,,no,,abb130bc733a1f78
+opencode/nvidia/nvidia/nemotron-3.5-content-safety,nvidia/nvidia/nemotron-3.5-content-safety,nvidia,Nemotron 3.5 Content Safety,unknown,未体检,,no,,47195084dcf63a0c
+opencode/nvidia/nvidia/nemotron-3.5-lightning-30b-a3b,nvidia/nvidia/nemotron-3.5-lightning-30b-a3b,nvidia,Nemotron 3.5 Lightning 30B A3B,unknown,未体检,,no,,23bc7227d5cc54e2
+opencode/nvidia/nvidia/nemotron-3.5-super-vl-120b-a12b,nvidia/nvidia/nemotron-3.5-super-vl-120b-a12b,nvidia,Nemotron 3.5 Super VL 120B A12B,unknown,未体检,,no,,df02c46135797e88
+opencode/nvidia/nvidia/nemotron-voicechat,nvidia/nvidia/nemotron-voicechat,nvidia,nemotron-voicechat,unknown,未体检,,no,,d51d743393d976f8
+opencode/nvidia/nvidia/sparsedrive,nvidia/nvidia/sparsedrive,nvidia,sparsedrive,unknown,未体检,,no,,342e608530678621
+opencode/nvidia/nvidia/streampetr,nvidia/nvidia/streampetr,nvidia,streampetr,unknown,未体检,,no,,342e608530678621
+opencode/nvidia/nvidia/studiovoice,nvidia/nvidia/studiovoice,nvidia,studiovoice,unknown,未体检,,no,,a7c04903c6fd37fe
+opencode/nvidia/nvidia/synthetic-video-detector,nvidia/nvidia/synthetic-video-detector,nvidia,synthetic-video-detector,unknown,未体检,,no,,29bce45cc3ff047d
+opencode/nvidia/openai/gpt-oss-20b,nvidia/openai/gpt-oss-20b,nvidia,GPT OSS 20B,unknown,未体检,,no,,693b6669a8968104
+opencode/nvidia/openai/whisper-large-v3,nvidia/openai/whisper-large-v3,nvidia,Whisper Large v3,unknown,未体检,,no,,0a594cbaa3727ac6
+opencode/nvidia/poolside/laguna-xs-2.1,nvidia/poolside/laguna-xs-2.1,nvidia,Laguna XS 2.1,unknown,未体检,,no,,485995b2ed7bdade
+opencode/nvidia/qwen/qwen-image,nvidia/qwen/qwen-image,nvidia,Qwen Image,unknown,未体检,,no,,d46ff90c0ad606a6
+opencode/nvidia/qwen/qwen-image-edit,nvidia/qwen/qwen-image-edit,nvidia,Qwen Image Edit,unknown,未体检,,no,,0e9bd4574d7d3c4f
+opencode/nvidia/stepfun-ai/step-5-preview,nvidia/stepfun-ai/step-5-preview,nvidia,Step 5 Preview,unknown,未体检,,no,,7921360846725df9
+opencode/nvidia/z-ai/glm-5.3-flash,nvidia/z-ai/glm-5.3-flash,nvidia,GLM-5.3-Flash,unknown,未体检,,no,,d59c95db7f718fe4
+opencode/opencode-go/beam-free,opencode-go/beam-free,opencode-go,Beam Free,unknown,未体检,,no,,8a49d7cac7e25c28
+opencode/opencode-go/crouton-alpha-free,opencode-go/crouton-alpha-free,opencode-go,Crouton Alpha Free,unknown,未体检,,no,,7e3052bce6e95be0
+opencode/opencode-go/iceman-contributor-free,opencode-go/iceman-contributor-free,opencode-go,Iceman Contributor Free,unknown,未体检,,no,,2063f343cb3e7e40
+opencode/opencode/beam-free,opencode/beam-free,opencode,Beam Free,unknown,未体检,,no,,8a49d7cac7e25c28
+opencode/opencode/big-pickle,opencode/big-pickle,opencode,Big Pickle,unknown,未体检,,no,,353cdbb28a3741fe
+opencode/opencode/crouton-alpha-free,opencode/crouton-alpha-free,opencode,Crouton Alpha Free,unknown,未体检,,no,,7e3052bce6e95be0
+opencode/opencode/deepseek-v4.1-flash-free,opencode/deepseek-v4.1-flash-free,opencode,DeepSeek V4.1 Flash Free,unknown,未体检,,no,,95fb498de3db1dae
+opencode/opencode/flint-40b-free,opencode/flint-40b-free,opencode,Flint 40B Free,unknown,未体检,,no,,2da059c11ddd9e0f
+opencode/opencode/glm-5.3-flash-free,opencode/glm-5.3-flash-free,opencode,GLM-5.3-Flash Free,unknown,未体检,,no,,88729c1214cd5a39
+opencode/opencode/iceman-free,opencode/iceman-free,opencode,Iceman Free,unknown,未体检,,no,,2063f343cb3e7e40
+opencode/opencode/inkling-2-small-free,opencode/inkling-2-small-free,opencode,Inkling 2 Small Free,unknown,未体检,,no,,416790bb1850b683
+opencode/opencode/mimo-v2.6-flash-free,opencode/mimo-v2.6-flash-free,opencode,MiMo-V2.6-Flash Free,unknown,未体检,,no,,f9c6dc8387fe6c17
+opencode/opencode/nemotron-3.5-lightning-free,opencode/nemotron-3.5-lightning-free,opencode,Nemotron 3.5 Lightning Free,unknown,未体检,,no,,ff3e7dfcd142029e
+opencode/opencode/nemotron-3.5-super-vl-free,opencode/nemotron-3.5-super-vl-free,opencode,Nemotron 3.5 Super VL Free,unknown,未体检,,no,,12e6143ad2678dc3
+opencode/openrouter/cohere/north-mini-code:free,openrouter/cohere/north-mini-code:free,openrouter,North Mini Code (free),unknown,未体检,,no,,f895a0183ff52f8d
+opencode/openrouter/google/gemma-4-26b-a4b-it:free,openrouter/google/gemma-4-26b-a4b-it:free,openrouter,Gemma 4 26B A4B  (free),unknown,未体检,,no,,6140a9a4f7911a03
+opencode/openrouter/google/gemma-4-31b-it:free,openrouter/google/gemma-4-31b-it:free,openrouter,Gemma 4 31B (free),unknown,未体检,,no,,4fd3a3a95eb4f90d
+opencode/openrouter/google/lyria-3-clip-preview,openrouter/google/lyria-3-clip-preview,openrouter,Lyria 3 Clip Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/openrouter/google/lyria-3-pro-preview,openrouter/google/lyria-3-pro-preview,openrouter,Lyria 3 Pro Preview,unknown,未体检,,no,,80ebe7b9f477f1e6
+opencode/openrouter/liquid/lfm-2.5-2.6b:free,openrouter/liquid/lfm-2.5-2.6b:free,openrouter,LFM2.5-2.6B (free),unknown,未体检,,no,,17104670b3a08d09
+opencode/openrouter/liquid/lfm-3-1.7b:free,openrouter/liquid/lfm-3-1.7b:free,openrouter,LFM3-1.7B (free),unknown,未体检,,no,,deda0ac4542e61e9
+opencode/openrouter/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,openrouter/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,openrouter,Nemotron 3 Nano Omni (free),unknown,未体检,,no,,22498a2880db57ca
+opencode/openrouter/nvidia/nemotron-3-ultra-550b-a55b:free,openrouter/nvidia/nemotron-3-ultra-550b-a55b:free,openrouter,Nemotron 3 Ultra (free),unknown,未体检,,no,,15540d5745e2b8c4
+opencode/openrouter/nvidia/nemotron-3.5-lightning:free,openrouter/nvidia/nemotron-3.5-lightning:free,openrouter,Nemotron 3.5 Lightning (free),unknown,未体检,,no,,15540d5745e2b8c4
+opencode/openrouter/nvidia/nemotron-3.5-super-vl:free,openrouter/nvidia/nemotron-3.5-super-vl:free,openrouter,Nemotron 3.5 Super VL (free),unknown,未体检,,no,,781bd5b8fb226ee9
+opencode/openrouter/openrouter/free,openrouter/openrouter/free,openrouter,Free Models Router,unknown,未体检,,no,,8b87203a543abbec
+opencode/openrouter/recursive/flint-v1.0:free,openrouter/recursive/flint-v1.0:free,openrouter,Flint (free),unknown,未体检,,no,,ab18803475d4c84d
+opencode/openrouter/stealth/crouton-alpha,openrouter/stealth/crouton-alpha,openrouter,Crouton Alpha,unknown,未体检,,no,,b62e0a1b8ffebb35
+opencode/openrouter/xingchen-agi/xing4.0-29b-a4b:free,openrouter/xingchen-agi/xing4.0-29b-a4b:free,openrouter,Xing4.0 29B A4B (free),unknown,未体检,,no,,ea55cbfe240c7c7c
+opencode/orcarouter/deepseek/deepseek-v4-flash-free,orcarouter/deepseek/deepseek-v4-flash-free,orcarouter,DeepSeek V4 Flash (free),unknown,未体检,,no,,4341470139bc3055
+opencode/orcarouter/orcarouter/auto,orcarouter/orcarouter/auto,orcarouter,OrcaRouter Auto,unknown,未体检,,no,,77200a9812d3f37a
+opencode/orcarouter/orcarouter/free,orcarouter/orcarouter/free,orcarouter,OrcaRouter Free,unknown,未体检,,no,,888c8a0dcef4faf7
+opencode/orcarouter/tencent/hy3-free,orcarouter/tencent/hy3-free,orcarouter,Hy3 (free),unknown,未体检,,no,,7561384b6ddc566e
+opencode/orcarouter/z-ai/glm-5.3-flash-free,orcarouter/z-ai/glm-5.3-flash-free,orcarouter,GLM-5.3-Flash (free),unknown,未体检,,no,,03092c3fe5bad2b2
+opencode/ovhcloud/qwen3guard-gen-0.6b,ovhcloud/qwen3guard-gen-0.6b,ovhcloud,Qwen3Guard-Gen-0.6B,unknown,未体检,,no,,8b4cf0642ede5fec
+opencode/ovhcloud/qwen3guard-gen-8b,ovhcloud/qwen3guard-gen-8b,ovhcloud,Qwen3Guard-Gen-8B,unknown,未体检,,no,,8b4cf0642ede5fec
+opencode/pendra/deepseek-v4-flash,pendra/deepseek-v4-flash,pendra,DeepSeek V4 Flash,unknown,未体检,,no,,f3e2135b8a7e8a2d
+opencode/pendra/glm-4.7-flash,pendra/glm-4.7-flash,pendra,GLM-4.7-Flash,unknown,未体检,,no,,496fa8df6068c376
+opencode/pendra/gpt-oss:120b,pendra/gpt-oss:120b,pendra,GPT OSS 120B,unknown,未体检,,no,,693b6669a8968104
+opencode/pendra/llama3.3:70b,pendra/llama3.3:70b,pendra,Llama-3.3-70B-Instruct,unknown,未体检,,no,,32fada6275d42cd3
+opencode/pendra/qwen3-coder:30b,pendra/qwen3-coder:30b,pendra,Qwen3-Coder 30B-A3B Instruct,unknown,未体检,,no,,435c4684f02953ad
+opencode/pendra/qwen3.6:27b,pendra/qwen3.6:27b,pendra,Qwen3.6 27B,unknown,未体检,,no,,aa954a016a77fa41
+opencode/poe/google/gemma-4-31b,poe/google/gemma-4-31b,poe,Gemma-4-31B,unknown,未体检,,no,,b517be1fd864473e
+opencode/poe/openai/gpt-5.3-codex-spark,poe/openai/gpt-5.3-codex-spark,poe,GPT-5.3-Codex-Spark,unknown,未体检,,no,,25abc7011cb4b6eb
+opencode/poolside/poolside/laguna-m.1,poolside/poolside/laguna-m.1,poolside,Laguna M.1,unknown,未体检,,no,,28b0bbe9dff996a1
+opencode/poolside/poolside/laguna-s-2.1,poolside/poolside/laguna-s-2.1,poolside,Laguna S 2.1,unknown,未体检,,no,,e0649e71f17a6f8e
+opencode/poolside/poolside/laguna-xs-2.1,poolside/poolside/laguna-xs-2.1,poolside,Laguna XS 2.1,unknown,未体检,,no,,28b0bbe9dff996a1
+opencode/qvac/gemma4-31b,qvac/gemma4-31b,qvac,Gemma 4 31B IT,unknown,未体检,,no,,40af88298bf53c6f
+opencode/qvac/gpt-oss-20b,qvac/gpt-oss-20b,qvac,GPT OSS 20B,unknown,未体检,,no,,693b6669a8968104
+opencode/qvac/qwen3.5-0.8b,qvac/qwen3.5-0.8b,qvac,Qwen3.5 0.8B,unknown,未体检,,no,,5bffdd097123fa0b
+opencode/qvac/qwen3.5-2b,qvac/qwen3.5-2b,qvac,Qwen3.5 2B,unknown,未体检,,no,,5bffdd097123fa0b
+opencode/qvac/qwen3.5-4b,qvac/qwen3.5-4b,qvac,Qwen3.5 4B,unknown,未体检,,no,,5bffdd097123fa0b
+opencode/qvac/qwen3.5-9b,qvac/qwen3.5-9b,qvac,Qwen3.5 9B,unknown,未体检,,no,,0e2165a6f9d263ef
+opencode/qvac/qwen3.6-27b,qvac/qwen3.6-27b,qvac,Qwen3.6 27B,unknown,未体检,,no,,45e79f2d2d42cb44
+opencode/qvac/qwen3.6-35b-a3b,qvac/qwen3.6-35b-a3b,qvac,Qwen3.6 35B-A3B,unknown,未体检,,no,,45e79f2d2d42cb44
+opencode/reflection/Beam-1.0-501B-A23B,reflection/Beam-1.0-501B-A23B,reflection,Beam 1.0 501B A23B,unknown,未体检,,no,,8a49d7cac7e25c28
+opencode/regolo-ai/brick-v1-beta,regolo-ai/brick-v1-beta,regolo-ai,Brick v1 Beta,unknown,未体检,,no,,7811469b95277223
+opencode/regolo-ai/deepseek-ocr-2,regolo-ai/deepseek-ocr-2,regolo-ai,DeepSeek OCR 2,unknown,未体检,,no,,8f39ad2e19b4f51c
+opencode/regolo-ai/faster-whisper-large-v3,regolo-ai/faster-whisper-large-v3,regolo-ai,Faster Whisper Large v3,unknown,未体检,,no,,ef543ecbe987969c
+opencode/requesty/gemma-4-31b-it,requesty/gemma-4-31b-it,requesty,Gemma 4 31B IT,unknown,未体检,,no,,1b210bfa21d5507a
+opencode/requesty/leanstral-1-5,requesty/leanstral-1-5,requesty,leanstral-1-5,unknown,未体检,,no,,8979eee62f52933e
+opencode/requesty/leanstral-1-5@eu,requesty/leanstral-1-5@eu,requesty,leanstral-1-5@eu,unknown,未体检,,no,,8979eee62f52933e
+opencode/requesty/ling-3.0-tiny,requesty/ling-3.0-tiny,requesty,ling-3.0-tiny,unknown,未体检,,no,,3cc0aa6ef01c0221
+opencode/requesty/muse-glimmer-30b,requesty/muse-glimmer-30b,requesty,Muse Glimmer 30B,unknown,未体检,,no,,774557b26b3c2ae1
+opencode/requesty/nemotron-3-nano-omni-30b-a3b-reasoning,requesty/nemotron-3-nano-omni-30b-a3b-reasoning,requesty,Nemotron 3 Nano Omni 30B A3B Reasoning,unknown,未体检,,no,,ba717f374cca0075
+opencode/requesty/nemotron-3-super-120b-a12b,requesty/nemotron-3-super-120b-a12b,requesty,Nemotron 3 Super 120B A12B,unknown,未体检,,no,,2b149bf83f2987e3
+opencode/requesty/nemotron-3-ultra-550b-a55b,requesty/nemotron-3-ultra-550b-a55b,requesty,Nemotron 3 Ultra 550B A55B,unknown,未体检,,no,,f2b22607080ce66b
+opencode/requesty/nemotron-3.5-content-safety,requesty/nemotron-3.5-content-safety,requesty,Nemotron 3.5 Content Safety,unknown,未体检,,no,,0c49766881c4c39e
+opencode/requesty/nemotron-3.5-lightning-30b-a3b,requesty/nemotron-3.5-lightning-30b-a3b,requesty,Nemotron 3.5 Lightning 30B A3B,unknown,未体检,,no,,f2b22607080ce66b
+opencode/scnet-token-plan/DeepSeek-V4-Flash,scnet-token-plan/DeepSeek-V4-Flash,scnet-token-plan,DeepSeek V4 Flash,unknown,未体检,,no,,4341470139bc3055
+opencode/scnet-token-plan/DeepSeek-V4-Flash-0731,scnet-token-plan/DeepSeek-V4-Flash-0731,scnet-token-plan,DeepSeek V4 Flash 0731,unknown,未体检,,no,,4341470139bc3055
+opencode/scnet-token-plan/DeepSeek-V4-Pro,scnet-token-plan/DeepSeek-V4-Pro,scnet-token-plan,DeepSeek V4 Pro,unknown,未体检,,no,,4341470139bc3055
+opencode/scnet-token-plan/DeepSeek-V4-Pro-0813,scnet-token-plan/DeepSeek-V4-Pro-0813,scnet-token-plan,DeepSeek V4 Pro 0813,unknown,未体检,,no,,26b9595600cf542e
+opencode/scnet-token-plan/DeepSeek-V4.1-Flash,scnet-token-plan/DeepSeek-V4.1-Flash,scnet-token-plan,DeepSeek V4.1 Flash,unknown,未体检,,no,,4341470139bc3055
+opencode/scnet-token-plan/GLM-5,scnet-token-plan/GLM-5,scnet-token-plan,GLM-5,unknown,未体检,,no,,c30ae8887d9fd7a1
+opencode/scnet-token-plan/GLM-5.1,scnet-token-plan/GLM-5.1,scnet-token-plan,GLM-5.1,unknown,未体检,,no,,8c95a4e6ddae8422
+opencode/scnet-token-plan/GLM-5.2,scnet-token-plan/GLM-5.2,scnet-token-plan,GLM-5.2,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/scnet-token-plan/GLM-5.3,scnet-token-plan/GLM-5.3,scnet-token-plan,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/scnet-token-plan/GLM-5.3-Flash,scnet-token-plan/GLM-5.3-Flash,scnet-token-plan,GLM-5.3-Flash,unknown,未体检,,no,,b7e8ea045ecdf7f1
+opencode/scnet-token-plan/Kimi-K2.5,scnet-token-plan/Kimi-K2.5,scnet-token-plan,Kimi K2.5,unknown,未体检,,no,,429234fa7cbc8c71
+opencode/scnet-token-plan/Kimi-K2.6,scnet-token-plan/Kimi-K2.6,scnet-token-plan,Kimi K2.6,unknown,未体检,,no,,508cdb093e441aba
+opencode/scnet-token-plan/Kimi-K2.7-Code,scnet-token-plan/Kimi-K2.7-Code,scnet-token-plan,Kimi K2.7 Code,unknown,未体检,,no,,4218cb34e0646132
+opencode/scnet-token-plan/Kimi-K3,scnet-token-plan/Kimi-K3,scnet-token-plan,Kimi K3,unknown,未体检,,no,,3fe2348139d22d4a
+opencode/scnet-token-plan/MiniMax-M2.5,scnet-token-plan/MiniMax-M2.5,scnet-token-plan,MiniMax-M2.5,unknown,未体检,,no,,c30ae8887d9fd7a1
+opencode/scnet-token-plan/MiniMax-M2.7,scnet-token-plan/MiniMax-M2.7,scnet-token-plan,MiniMax-M2.7,unknown,未体检,,no,,c30ae8887d9fd7a1
+opencode/scnet-token-plan/MiniMax-M3,scnet-token-plan/MiniMax-M3,scnet-token-plan,MiniMax-M3,unknown,未体检,,no,,824e011db36734e4
+opencode/scnet-token-plan/Qwen3.8-Flash,scnet-token-plan/Qwen3.8-Flash,scnet-token-plan,Qwen3.8 Flash,unknown,未体检,,no,,c45ff2cec4d56c35
+opencode/scnet-token-plan/Qwen3.8-Max,scnet-token-plan/Qwen3.8-Max,scnet-token-plan,Qwen3.8 Max,unknown,未体检,,no,,40160a836b9bceda
+opencode/sensenova/deepseek-v4-flash,sensenova/deepseek-v4-flash,sensenova,DeepSeek V4 Flash,unknown,未体检,,no,,3df0686c2d655c8b
+opencode/sensenova/deepseek-v4-pro,sensenova/deepseek-v4-pro,sensenova,DeepSeek V4 Pro,unknown,未体检,,no,,87f7ab4905549703
+opencode/sensenova/deepseek-v4.1-flash,sensenova/deepseek-v4.1-flash,sensenova,DeepSeek V4.1 Flash,unknown,未体检,,no,,f4761d1d5f9916db
+opencode/sensenova/glm-5.2,sensenova/glm-5.2,sensenova,GLM-5.2,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/sensenova/kimi-k3,sensenova/kimi-k3,sensenova,Kimi K3,unknown,未体检,,no,,78b392866098f519
+opencode/sensenova/sensenova-6.8-flash-lite,sensenova/sensenova-6.8-flash-lite,sensenova,SenseNova 6.8 Flash Lite,unknown,未体检,,no,,889046312f04e566
+opencode/siliconflow-cn/PaddlePaddle/PaddleOCR-VL-1.5,siliconflow-cn/PaddlePaddle/PaddleOCR-VL-1.5,siliconflow-cn,PaddlePaddle/PaddleOCR-VL-1.5,unknown,未体检,,no,,c995340e80b3d411
+opencode/siliconflow-cn/Qwen/Qwen2.5-7B-Instruct,siliconflow-cn/Qwen/Qwen2.5-7B-Instruct,siliconflow-cn,Qwen/Qwen2.5-7B-Instruct,unknown,未体检,,no,,e74f623561f1aafc
+opencode/siliconflow-cn/Qwen/Qwen3-8B,siliconflow-cn/Qwen/Qwen3-8B,siliconflow-cn,Qwen/Qwen3-8B,unknown,未体检,,no,,e23cac47621f09ea
+opencode/siliconflow-cn/Qwen/Qwen3.5-4B,siliconflow-cn/Qwen/Qwen3.5-4B,siliconflow-cn,Qwen/Qwen3.5-4B,unknown,未体检,,no,,cdd7cb89cc159946
+opencode/siliconflow-cn/deepseek-ai/DeepSeek-OCR,siliconflow-cn/deepseek-ai/DeepSeek-OCR,siliconflow-cn,deepseek-ai/DeepSeek-OCR,unknown,未体检,,no,,a2588e0e3d398499
+opencode/tempr/groq/allam-2-7b,tempr/groq/allam-2-7b,tempr,ALLaM-2-7b,unknown,未体检,,no,,83b951459f087efd
+opencode/tempr/zai/glm-4.5-flash,tempr/zai/glm-4.5-flash,tempr,GLM-4.5-Flash,unknown,未体检,,no,,6fe215d74dd888a2
+opencode/tempr/zai/glm-4.6v-flash,tempr/zai/glm-4.6v-flash,tempr,GLM-4.6V-Flash,unknown,未体检,,no,,33b481cac43ce965
+opencode/tempr/zai/glm-4.7-flash,tempr/zai/glm-4.7-flash,tempr,GLM-4.7-Flash,unknown,未体检,,no,,496fa8df6068c376
+opencode/tencent-coding-plan/tc-code-latest,tencent-coding-plan/tc-code-latest,tencent-coding-plan,Auto,unknown,未体检,,no,,475182f3a7d16012
+opencode/tencent-token-plan/hy3,tencent-token-plan/hy3,tencent-token-plan,Hy3,unknown,未体检,,no,,7561384b6ddc566e
+opencode/tencent-tokenhub/hy3,tencent-tokenhub/hy3,tencent-tokenhub,Hy3,unknown,未体检,,no,,7561384b6ddc566e
+opencode/tencent-tokenhub/hy3-preview,tencent-tokenhub/hy3-preview,tencent-tokenhub,Hy3 preview,unknown,未体检,,no,,e9788d12322da681
+opencode/tokenrouter/z-ai/glm-5.3-free,tokenrouter/z-ai/glm-5.3-free,tokenrouter,GLM-5.3 (free),unknown,未体检,,no,,50d1ac7faa980f44
+opencode/umans-ai-coding-plan/umans-coder,umans-ai-coding-plan/umans-coder,umans-ai-coding-plan,Umans Coder,unknown,未体检,,no,,9363a2e62f3ffeee
+opencode/umans-ai-coding-plan/umans-deepseek-v4-flash-0731,umans-ai-coding-plan/umans-deepseek-v4-flash-0731,umans-ai-coding-plan,DeepSeek V4 Flash,unknown,未体检,,no,,6226b94074211840
+opencode/umans-ai-coding-plan/umans-deepseek-v4.1-flash,umans-ai-coding-plan/umans-deepseek-v4.1-flash,umans-ai-coding-plan,DeepSeek V4.1 Flash,unknown,未体检,,no,,18de3208bf0fff98
+opencode/umans-ai-coding-plan/umans-deepseek-v4.1-flash-1017,umans-ai-coding-plan/umans-deepseek-v4.1-flash-1017,umans-ai-coding-plan,DeepSeek V4.1 Flash 1017,unknown,未体检,,no,,18de3208bf0fff98
+opencode/umans-ai-coding-plan/umans-flash,umans-ai-coding-plan/umans-flash,umans-ai-coding-plan,Umans Flash,unknown,未体检,,no,,d04981cef4b30dd7
+opencode/umans-ai-coding-plan/umans-glm-5.3,umans-ai-coding-plan/umans-glm-5.3,umans-ai-coding-plan,GLM 5.3,unknown,未体检,,no,,f8fcb648cbd2d3bb
+opencode/umans-ai-coding-plan/umans-glm-5.3-flash,umans-ai-coding-plan/umans-glm-5.3-flash,umans-ai-coding-plan,GLM 5.3 Flash,unknown,未体检,,no,,2e5853ffd4f31652
+opencode/umans-ai-coding-plan/umans-kimi-k3,umans-ai-coding-plan/umans-kimi-k3,umans-ai-coding-plan,Kimi K3,unknown,未体检,,no,,ca2efef9067db07a
+opencode/umans-ai-coding-plan/umans-qwen3.6-35b-a3b,umans-ai-coding-plan/umans-qwen3.6-35b-a3b,umans-ai-coding-plan,Qwen3.6 35B A3B,unknown,未体检,,no,,d04981cef4b30dd7
+opencode/unorouter/gemma-4-31b-it:free,unorouter/gemma-4-31b-it:free,unorouter,Gemma 4 31B IT,unknown,未体检,,no,,40af88298bf53c6f
+opencode/unorouter/glm-4.5-flash:free,unorouter/glm-4.5-flash:free,unorouter,GLM-4.5-Flash,unknown,未体检,,no,,6fe215d74dd888a2
+opencode/unorouter/minimax-m2.7:free,unorouter/minimax-m2.7:free,unorouter,MiniMax-M2.7,unknown,未体检,,no,,1457b78c10f0a5af
+opencode/unorouter/nemotron-3-ultra-550b-a55b:free,unorouter/nemotron-3-ultra-550b-a55b:free,unorouter,Nemotron 3 Ultra 550B A55B,unknown,未体检,,no,,4491b8e4f6e839e6
+opencode/vercel/humansand/ampersand-v0.1,vercel/humansand/ampersand-v0.1,vercel,Ampersand v0.1,unknown,未体检,,no,,bd71f4cd463360c6
+opencode/vercel/nvidia/nemotron-3.5-lightning-free,vercel/nvidia/nemotron-3.5-lightning-free,vercel,Nemotron 3.5 Lightning Free,unknown,未体检,,no,,307bd7ef582a1f57
+opencode/vercel/reflection/beam,vercel/reflection/beam,vercel,Beam 1.0,unknown,未体检,,no,,8a49d7cac7e25c28
+opencode/vercel/reflection/beam-free,vercel/reflection/beam-free,vercel,Beam 1.0 (Free),unknown,未体检,,no,,8a49d7cac7e25c28
+opencode/vercel/stealth/glyph-cluster,vercel/stealth/glyph-cluster,vercel,Glyph Cluster,unknown,未体检,,no,,da4d83d2780cd6ae
+opencode/volcengine-coding-plan/deepseek-v4-flash,volcengine-coding-plan/deepseek-v4-flash,volcengine-coding-plan,DeepSeek V4 Flash,unknown,未体检,,no,,4341470139bc3055
+opencode/volcengine-coding-plan/deepseek-v4-pro,volcengine-coding-plan/deepseek-v4-pro,volcengine-coding-plan,DeepSeek V4 Pro,unknown,未体检,,no,,4341470139bc3055
+opencode/volcengine-coding-plan/doubao-seed-evolving,volcengine-coding-plan/doubao-seed-evolving,volcengine-coding-plan,Seed Evolving,unknown,未体检,,no,,4cf354c079c12edc
+opencode/volcengine-coding-plan/glm-5.3,volcengine-coding-plan/glm-5.3,volcengine-coding-plan,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/volcengine-coding-plan/glm-5.3-flash,volcengine-coding-plan/glm-5.3-flash,volcengine-coding-plan,GLM-5.3-Flash,unknown,未体检,,no,,b7e8ea045ecdf7f1
+opencode/volcengine-coding-plan/kimi-k3,volcengine-coding-plan/kimi-k3,volcengine-coding-plan,Kimi K3,unknown,未体检,,no,,e05e90a01494302e
+opencode/xiaomi-token-plan-ams/mimo-v2.5-tts,xiaomi-token-plan-ams/mimo-v2.5-tts,xiaomi-token-plan-ams,MiMo-V2.5-TTS,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-ams/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-ams/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-ams,MiMo-V2.5-TTS-VoiceClone,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-ams/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-ams/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-ams,MiMo-V2.5-TTS-VoiceDesign,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-ams/mimo-v2.6-flash,xiaomi-token-plan-ams/mimo-v2.6-flash,xiaomi-token-plan-ams,MiMo-V2.6-Flash,unknown,未体检,,no,,d16caafd555702ab
+opencode/xiaomi-token-plan-ams/mimo-v2.6-pro,xiaomi-token-plan-ams/mimo-v2.6-pro,xiaomi-token-plan-ams,MiMo-V2.6-Pro,unknown,未体检,,no,,d16caafd555702ab
+opencode/xiaomi-token-plan-cn/mimo-v2.5-tts,xiaomi-token-plan-cn/mimo-v2.5-tts,xiaomi-token-plan-cn,MiMo-V2.5-TTS,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-cn/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-cn/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-cn,MiMo-V2.5-TTS-VoiceClone,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-cn/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-cn/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-cn,MiMo-V2.5-TTS-VoiceDesign,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-cn/mimo-v2.6-flash,xiaomi-token-plan-cn/mimo-v2.6-flash,xiaomi-token-plan-cn,MiMo-V2.6-Flash,unknown,未体检,,no,,d16caafd555702ab
+opencode/xiaomi-token-plan-cn/mimo-v2.6-pro,xiaomi-token-plan-cn/mimo-v2.6-pro,xiaomi-token-plan-cn,MiMo-V2.6-Pro,unknown,未体检,,no,,d16caafd555702ab
+opencode/xiaomi-token-plan-sgp/mimo-v2.5-tts,xiaomi-token-plan-sgp/mimo-v2.5-tts,xiaomi-token-plan-sgp,MiMo-V2.5-TTS,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-sgp/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-sgp/mimo-v2.5-tts-voiceclone,xiaomi-token-plan-sgp,MiMo-V2.5-TTS-VoiceClone,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-sgp/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-sgp/mimo-v2.5-tts-voicedesign,xiaomi-token-plan-sgp,MiMo-V2.5-TTS-VoiceDesign,unknown,未体检,,no,,029f979906734c18
+opencode/xiaomi-token-plan-sgp/mimo-v2.6-flash,xiaomi-token-plan-sgp/mimo-v2.6-flash,xiaomi-token-plan-sgp,MiMo-V2.6-Flash,unknown,未体检,,no,,d16caafd555702ab
+opencode/xiaomi-token-plan-sgp/mimo-v2.6-pro,xiaomi-token-plan-sgp/mimo-v2.6-pro,xiaomi-token-plan-sgp,MiMo-V2.6-Pro,unknown,未体检,,no,,d16caafd555702ab
+opencode/zai-coding-plan/glm-5.3,zai-coding-plan/glm-5.3,zai-coding-plan,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/zai-coding-plan/glm-5.3-flash,zai-coding-plan/glm-5.3-flash,zai-coding-plan,GLM-5.3-Flash,unknown,未体检,,no,,b7e8ea045ecdf7f1
+opencode/zai-coding-plan/glm-5.3-highspeed,zai-coding-plan/glm-5.3-highspeed,zai-coding-plan,GLM-5.3 Highspeed,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/zai/glm-4.5-flash,zai/glm-4.5-flash,zai,GLM-4.5-Flash,unknown,未体检,,no,,a2d5271274cec5f5
+opencode/zai/glm-4.6v-flash,zai/glm-4.6v-flash,zai,GLM-4.6V-Flash,unknown,未体检,,no,,7e08da0afd53f480
+opencode/zai/glm-4.7-flash,zai/glm-4.7-flash,zai,GLM-4.7-Flash,unknown,未体检,,no,,6edcb8966f4541d2
+opencode/zeldoc/zdev,zeldoc/zdev,zeldoc,ZDev,unknown,未体检,,no,,ce888d8e8c20b74c
+opencode/zenmux/z-ai/glm-4.6v-flash-free,zenmux/z-ai/glm-4.6v-flash-free,zenmux,GLM 4.6V Flash (Free),unknown,未体检,,no,,dfe9b85951b91e32
+opencode/zenmux/z-ai/glm-4.7-flash-free,zenmux/z-ai/glm-4.7-flash-free,zenmux,GLM 4.7 Flash (Free),unknown,未体检,,no,,4da9f392e16ddae6
+opencode/zhipuai-coding-plan/glm-5.3,zhipuai-coding-plan/glm-5.3,zhipuai-coding-plan,GLM-5.3,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/zhipuai-coding-plan/glm-5.3-flash,zhipuai-coding-plan/glm-5.3-flash,zhipuai-coding-plan,GLM-5.3-Flash,unknown,未体检,,no,,b7e8ea045ecdf7f1
+opencode/zhipuai-coding-plan/glm-5.3-highspeed,zhipuai-coding-plan/glm-5.3-highspeed,zhipuai-coding-plan,GLM-5.3 Highspeed,unknown,未体检,,no,,50d1ac7faa980f44
+opencode/zhipuai/glm-4.5-flash,zhipuai/glm-4.5-flash,zhipuai,GLM-4.5-Flash,unknown,未体检,,no,,a2d5271274cec5f5
+opencode/zhipuai/glm-4.6v-flash,zhipuai/glm-4.6v-flash,zhipuai,GLM-4.6V-Flash,unknown,未体检,,no,,7e08da0afd53f480
+opencode/zhipuai/glm-4.7-flash,zhipuai/glm-4.7-flash,zhipuai,GLM-4.7-Flash,unknown,未体检,,no,,6edcb8966f4541d2
